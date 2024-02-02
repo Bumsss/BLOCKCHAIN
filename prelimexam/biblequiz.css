@@ -1,0 +1,11 @@
+.pCorrect {
+    color: green;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.pInCorrect {
+    color: red;
+    font-size: 25px;
+    font-weight: bolder;
+}
